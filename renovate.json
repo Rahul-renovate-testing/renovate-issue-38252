@@ -1,8 +1,1 @@
-{
-  "packageRules": [
-    {
-      "groupName": "bazel dependencies",
-      "matchManagers": ["bazel", "bazel-module"]
-    }
-  ]
-}
+{"labels": ["hero"]}
